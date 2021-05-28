@@ -1,0 +1,85 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+
+#appContainer {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+#viewDiv {
+    flex: 4;
+    width: 80%;
+    height: 100%
+}
+
+.row {
+    display: flex;
+}
+.col {
+    flex: 1;
+}
+
+.col2 {
+    flex: 4;
+}
+
+.ficheElus{
+    cursor: pointer;
+}
+
+#tableContent{
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.case{
+    border-style: solid;
+    border-width: 1px;
+    padding: 20px;
+    border-radius: 3px;
+}
+
+#table{
+    text-align: center;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.esri-field-column__header-content {
+    text-align: center;
+    background-color: #abe9cd;
+    background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+    color: white;
+    letter-spacing: 2px;
+    font-weight: bold;
+
+}
+
+.esri-column__menu-container{
+    opacity: 0%;
+    display: none;
+}
+
+
+#paneDiv {
+    padding: 10px;
+    max-width: 200px;
+    background-color: rgba(255, 255, 255, 0.8);
+    font-size: 1.1em;
+}
+
+.esri-button{
+    border-radius: 5px;
+}
+
+#info {
+    padding: 1em;
+}

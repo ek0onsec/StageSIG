@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1719eb8d-9d1e-4ed3-a6b6-b376c77aff63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1q9Q0U4FOrqouVj5v5VAEaPKVef" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dev Perso/ArcGIS API" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ek0\Desktop\ProjetsStage\Projet_BatailleLaon\src" />
+      <recent name="C:\Users\Ek0\Desktop\ProjetsStage\Projet_1_Elu\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1719eb8d-9d1e-4ed3-a6b6-b376c77aff63" name="Default Changelist" comment="" />
+      <created>1616489102862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616489102862</updated>
+      <workItem from="1616489103989" duration="2754000" />
+      <workItem from="1616492472625" duration="10252000" />
+      <workItem from="1616532397587" duration="179000" />
+      <workItem from="1616574228733" duration="9986000" />
+      <workItem from="1616606373220" duration="247000" />
+      <workItem from="1616659781208" duration="2174000" />
+      <workItem from="1616678746212" duration="2080000" />
+      <workItem from="1616756724228" duration="959000" />
+      <workItem from="1616999105964" duration="10101000" />
+      <workItem from="1617023451342" duration="10291000" />
+      <workItem from="1617039463561" duration="2293000" />
+      <workItem from="1617102573498" duration="2098000" />
+      <workItem from="1617194211406" duration="455000" />
+      <workItem from="1617199347370" duration="1451000" />
+      <workItem from="1617280234990" duration="4662000" />
+      <workItem from="1617708017777" duration="17135000" />
+      <workItem from="1617780254917" duration="3368000" />
+      <workItem from="1618213249169" duration="2918000" />
+      <workItem from="1618503549540" duration="9000" />
+      <workItem from="1618821451115" duration="11512000" />
+      <workItem from="1618867813506" duration="4072000" />
+      <workItem from="1618902348230" duration="3764000" />
+      <workItem from="1619179883160" duration="1070000" />
+      <workItem from="1619685208739" duration="19842000" />
+      <workItem from="1619768195758" duration="3827000" />
+      <workItem from="1620629589692" duration="2117000" />
+      <workItem from="1620734940498" duration="621000" />
+      <workItem from="1620736399200" duration="596000" />
+      <workItem from="1621331315990" duration="3043000" />
+      <workItem from="1621405331686" duration="1969000" />
+      <workItem from="1622041876655" duration="2045000" />
+      <workItem from="1622200057681" duration="3888000" />
+      <workItem from="1622225588071" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617780423837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617780423837" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617736282182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617736282182" />
+    <state x="-1328" y="220" key="FileChooserDialogImpl" timestamp="1617735382550">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1328" y="220" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617735382550" />
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616492361044" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1618214247024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618214247024" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1616671931503">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616671931503" />
+  </component>
+</project>

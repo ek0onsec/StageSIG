@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>BatailleLaon</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.15/esri/themes/light/main.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Calcite Design -->
+    <script type="module" src="https://jsdev.arcgis.com/calcite-components/1.0.0-beta.52/calcite.esm.js"></script>
+    <script nomodule="" src="https://jsdev.arcgis.com/calcite-components/1.0.0-beta.52/calcite.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://jsdev.arcgis.com/calcite-components/1.0.0-beta.52/calcite.css" />
+
+</head>
+<body>
+
+<!-- Conteneur principale-->
+<div id="appContainer">
+
+    <!-- Conteneur de la map -->
+    <div id="viewDiv"></div>
+
+    <!-- Menu Objets 3D -->
+
+    <div id="paneDiv" class="esri-widget">
+        <p>Objets disponibles</p>
+        <button id="cavalier" class="esri-button">♞ Cavalier ♞ </button><br/>
+        <button id="item" class="esri-button">item</button><br/>
+        <button id="item" class="esri-button">item</button><br/>
+        <br>
+        <p style="text-align:center">Animation</p>
+        <calcite-button id="playButton" appearance="clear" button-alignment="center" color="inverse" icon-start="play"
+                        scale="m" width="full">Lecture</calcite-button>
+
+
+    </div>
+
+
+    <!-- Outil Camera -->
+    <div id="info" class="esri-widget">
+        <camera-info v-bind:camera="camera"></camera-info>
+    </div>
+
+    <!-- Boutton play -->
+
+
+
+</div>
+</body>
+<script>
+    window.dojoConfig = {
+        packages: [
+            {
+                name: "vue",
+                location: "https://unpkg.com/vue/dist/",
+                main: "vue"
+            }
+        ]
+    };
+</script>
+<script src="https://js.arcgis.com/4.18/"></script>
+<script src="src/main.js"></script>
+
+</html>
